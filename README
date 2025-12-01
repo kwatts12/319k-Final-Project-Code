@@ -1,1 +1,3 @@
-This is the main file for my final project in my Embedded Systems class. The code impliments a 2 player version of the classic game Brick Breaker on a TM4C123 microcontroller. Where as the classic game was won by acheiving a high score, my version is won by outlasting your opponent
+This is the main file for my final project in my Embedded Systems class. The code impliments a 2 player version of the classic game Brick Breaker on a TM4C123 microcontroller. 
+Whereas the classic game was won by acheiving a high score, my version is won by outlasting your opponent. After each level of collectively clearing all of the bricks from the screen, the game 
+reloads but starts to move much faster, making it more difficult to keep your ball in the air.
