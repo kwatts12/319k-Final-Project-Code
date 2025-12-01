@@ -1,1 +1,1 @@
-This is the main file for my final project in my Embedded Systems class. The code impliments a 2 player version of the classic game Brick Breaker on a TM4C123 microcontroller.
+This is the main file for my final project in my Embedded Systems class. The code impliments a 2 player version of the classic game Brick Breaker on a TM4C123 microcontroller. Where as the classic game was won by acheiving a high score, my version is won by outlasting your opponent
